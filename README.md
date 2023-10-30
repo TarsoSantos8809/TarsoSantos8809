@@ -13,7 +13,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tarso_santos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarsosantos/)
 
-![Tarso Santos Stats](https://github-readme-stats.vercel.app/api?username=TarsoSantos8809&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/TarsoSantos8809">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarsoSantos8809&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarsoSantos8809&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
 
 ## Technologies I use in my day 👨‍💻
 <p align="justify">
